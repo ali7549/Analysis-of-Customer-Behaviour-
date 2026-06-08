@@ -1,4 +1,4 @@
-# Analysis-of-Customer-Behaviour-
+# Analysis of Customer Behaviour-Data Analytics Project
 
 ## 📌Project Overview
 
